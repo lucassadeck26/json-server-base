@@ -7,5 +7,20 @@
       "age": 38,
       "id": 1
     }
+  ],
+        
+  "animals": [
+    {
+      "nome": "onça",
+      "idade": 39,
+      "peso": 72,
+      "especie": "silvestre",
+      "id":1
+        
+    }
+    
   ]
+
+  
+  
 }
