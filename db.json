@@ -19,7 +19,23 @@
         
     }
     
-  ]
+  ],
+
+  "onepiece": [
+    {
+      "name": "Luffy",
+      "idade": 20,
+      "akuma": "Gomu Gomu no Mi",
+      "img": "https://epipoca.com.br/wp-content/uploads/2022/04/luffy-one-piece-1015-1110x624.jpg"
+    },
+    {
+      "name": "Marco",
+      "idade": 22,
+      "akuma": "Tori Tori no Mi",
+      "img": "https://criticalhits.com.br/wp-content/uploads/2020/06/marco-one-piece-1.jpg"
+    }
+    ]
+  
 
   
   
